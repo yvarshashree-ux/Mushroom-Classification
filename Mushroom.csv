@@ -1,0 +1,10 @@
+MUSHROOM CLASSIFICATION DATASET
+  cap_shape   color    odor      class
+0    convex   brown  almond     edible
+1      flat   white    foul  poisonous
+2    convex  yellow    none     edible
+3      flat   white    foul  poisonous
+4      bell   brown  almond     edible
+5    convex  yellow    none     edible
+6      bell   white    foul  poisonous
+7      flat   brown  almond     edible
